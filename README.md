@@ -23,9 +23,13 @@ Please note that this design has NOT been tested in real life, it is in beta sta
 # Instructions:
 
 Place the adapter on a table with the flat side up.
+
 Dab some epoxy on the sides of your nuts, be careful not to get epoxy on the top or bottom.
+
 Push the nuts down through the holes until flat against the table.
+
 The nuts should be poking out on both sides about one mm. 
+
 
 The adapter is now ready to be used.
 
