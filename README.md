@@ -3,7 +3,7 @@
  
 
 
-This is an adapter so that you can use flat tops in a SP36 Pro
+This is an adapter so that you can use flat tops in a SP36 Pro.
 
 <img width="2429" height="1621" alt="image" src="https://github.com/user-attachments/assets/4c5e8e54-6db9-4a29-8f84-75749470cce8" />
 
@@ -28,13 +28,13 @@ Dab some epoxy on the sides of your nuts, be careful not to get epoxy on the top
 
 Push the nuts down through the holes until flat against the table.
 
-The nuts should be poking out on both sides about one mm. 
+The nuts should be poking out on both sides about one mm. make sure that there is no glue on the top or bottom that can interfer with the electrical connection. 
 
 
-The adapter is now ready to be used.
+Let the glue harden and the adapter is ready to be used.
 
 
 <img width="2429" height="1621" alt="image" src="https://github.com/user-attachments/assets/dad75896-be62-4d7d-82af-5b8752e1af12" />
 
 
-Please use my designs at your own risk, I will not be held responsible if you turn your flaslight into a pipe bomb.
+Please use my designs at your own risk, I will not be held responsible if you turn your flashlight into a pipe bomb.
